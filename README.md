@@ -1,6 +1,6 @@
-Hi ![]([https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif](https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif))My name is HmuDeng
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is HmuDeng
 ===============================================================================================================================
-Im make plugin and scripts whit Minecraft TikTok Live
+###Im make plugin and scripts whit Minecraft TikTok Live
 -----------------------------------------------------
 
 บริการขายแมพ Minecraft ไลฟ์สด TikTok
@@ -8,7 +8,7 @@ Im make plugin and scripts whit Minecraft TikTok Live
 * 🌍  I'm based in Thai
 * 🖥️  See my portfolio at [Capybara HUB](http://discord.com/invite/TtCqjepqtA)
 
-### Skills
+### Languages and Tools:
 
 
 <p align="left">
