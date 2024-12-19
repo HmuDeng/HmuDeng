@@ -6,8 +6,8 @@ Im make plugin and scripts whit Minecraft TikTok Live
 
 บริการขายแมพ Minecraft ไลฟ์สด TikTok
 
-* 🌍  I'm based in Thai
-* 🖥️  See my portfolio at [Capybara HUB](http://discord.com/invite/TtCqjepqtA)
+* 🔎  I am the founder of Capybara HUB shop.
+* 🖥️  See my products and portfolio at [Capybara HUB](http://discord.com/invite/TtCqjepqtA)
 
 
 ### Socials
