@@ -7,7 +7,8 @@ Im make plugin and scripts whit Minecraft TikTok Live
 
 * 🔎  I am the founder of Capybara HUB shop.
 * 🖥️  See my products and portfolio at [Capybara HUB](http://discord.com/invite/TtCqjepqtA)
-* 📌  My tiktok [@hmudeng](https://www.tiktok.com/@hmudeng)
+* 📌  ![TikTok Profile](https://img.shields.io/badge/TikTok-@hmudeng-blue?logo=tiktok&style=flat-square)
+ [@hmudeng](https://www.tiktok.com/@hmudeng)
 
 
 ### Socials
