@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Im make plugin and scripts whit Minecraft TikTok Live
 -----------------------------------------------------
 
-บริการขายแมพ Minecraft ไลฟ์สด TikTok
 
 * 🔎  I am the founder of Capybara HUB shop.
 * 🖥️  See my products and portfolio at [Capybara HUB](http://discord.com/invite/TtCqjepqtA)
